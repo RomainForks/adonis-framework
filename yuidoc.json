@@ -1,0 +1,11 @@
+{
+  "name": "Adonis Core API",
+  "description": "NodeJs Web Application Framework",
+  "version": "5.0.4",
+  "url": "http://adonisjs.com/",
+  "logo": "http://adonisjs.com/images/header-logo.svg",
+  "options": {
+    "linkNatives": true,
+    "outdir": "docs"
+  }
+}

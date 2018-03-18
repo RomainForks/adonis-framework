@@ -4,6 +4,7 @@
   "description": "Adonis framework makes it easy for you to write webapps with less code",
   "main": "index.js",
   "scripts": {
+    "doc": "yuidoc .",
     "lint": "standard",
     "pretest": "npm run lint",
     "posttest": "npm run coverage",
@@ -40,7 +41,8 @@
     "simple-encryptor": "^1.1.1",
     "standard": "^10.0.3",
     "supertest": "^3.0.0",
-    "test-console": "^1.1.0"
+    "test-console": "^1.1.0",
+    "yuidocjs": "^0.10.2"
   },
   "dependencies": {
     "@adonisjs/generic-exceptions": "^2.0.0",
